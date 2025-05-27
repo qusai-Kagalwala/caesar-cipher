@@ -107,10 +107,6 @@ caesar-cipher/
 └── README.md        # Project documentation
 ```
 
-## 🏷️ Tags
-
-`python` `encryption` `caesar-cipher` `cryptography` `beginner-project` `100-days-of-code` `angela-yu` `command-line` `interactive` `educational`
-
 ## 🎓 Learning Objectives
 
 This project demonstrates:
